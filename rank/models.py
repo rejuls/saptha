@@ -100,4 +100,4 @@ class Point(models.Model):
 		return self.points
 
 	def __str__(self):
-		return self.year
+		return self.college
