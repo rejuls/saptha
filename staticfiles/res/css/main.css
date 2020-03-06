@@ -335,3 +335,11 @@ tbody tr:hover {
     padding-right: 15px;
   }
 }
+
+@media (min-width: 769px) {
+.sapthalogo{
+  width: 45%;
+    margin: auto;
+    display: block;
+    }
+  }
