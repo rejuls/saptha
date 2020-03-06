@@ -9,7 +9,9 @@
   src: url('../fonts/OpenSans/OpenSans-Regular.ttf');
 }
 
-
+.yellowheart{
+  color:#e8be42;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
@@ -112,11 +114,11 @@ iframe {
 }*/
 
 .event{
-  background:#BC2C3D;
+  background:#e8be42;
 }
 #event_list{
   text-align: center;
-  color:#ffffff;
+  color:black;
   font-family:'Rajdhani',sans-serif;
 
 }
